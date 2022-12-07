@@ -19,8 +19,7 @@ body{
 
 .img-slider{
   position: relative;
-  width: 800px;
-  height: 500px;
+  width: 300px;
   margin: 10px;
   background: #1D212B;
 }
