@@ -12,9 +12,8 @@
 body{
   height: 100vh;
   display: grid;
-  place-items: center;
-  transition: all 1s;
-  background: #1D212B;
+  background: red;
+    text-align:center;
 }
 
 .img-slider{
