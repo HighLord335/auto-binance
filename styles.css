@@ -12,13 +12,13 @@
 body{
   height: 100vh;
   display: grid;
-  background: red;
+  background: #fff;
     text-align:center;
 }
 
 .img-slider{
   position: relative;
-  width: 300px;
+  width: 100%;
   margin: 10px;
   background: #1D212B;
 }
