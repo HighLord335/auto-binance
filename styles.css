@@ -11,8 +11,7 @@ body{
   height: 100vh;
   display: grid;
   background: #fff;
-  place-items: center;
-  transition: all 1s;
+  justify-content:center;
 }
 
 .img-slider{
